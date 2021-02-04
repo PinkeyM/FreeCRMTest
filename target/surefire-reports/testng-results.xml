@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="202987" started-at="2020-10-01T17:53:12 IST" finished-at="2020-10-01T17:56:35 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="202987" started-at="2020-10-01T17:53:12 IST" finished-at="2020-10-01T17:56:35 IST">
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="SetUp" is-config="true" duration-ms="14868" started-at="2020-10-01T17:54:45 IST" finished-at="2020-10-01T17:55:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="DealsTest()[pri:0, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="DealsTest" duration-ms="1154" started-at="2020-10-01T17:55:00 IST" finished-at="2020-10-01T17:55:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DealsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="teardown" is-config="true" duration-ms="198" started-at="2020-10-01T17:55:01 IST" finished-at="2020-10-01T17:55:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="SetUp" is-config="true" duration-ms="15469" started-at="2020-10-01T17:55:02 IST" finished-at="2020-10-01T17:55:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="HomePageTiTleTest()[pri:1, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="HomePageTiTleTest" duration-ms="10" started-at="2020-10-01T17:55:17 IST" finished-at="2020-10-01T17:55:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTiTleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="teardown" is-config="true" duration-ms="166" started-at="2020-10-01T17:55:17 IST" finished-at="2020-10-01T17:55:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="SetUp" is-config="true" duration-ms="15178" started-at="2020-10-01T17:55:17 IST" finished-at="2020-10-01T17:55:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LabelTest()[pri:2, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="LabelTest" duration-ms="1220" started-at="2020-10-01T17:55:32 IST" finished-at="2020-10-01T17:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LabelTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="teardown" is-config="true" duration-ms="213" started-at="2020-10-01T17:55:34 IST" finished-at="2020-10-01T17:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="SetUp" is-config="true" duration-ms="13322" started-at="2020-10-01T17:55:34 IST" finished-at="2020-10-01T17:55:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ContactsTest()[pri:3, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="ContactsTest" duration-ms="1911" started-at="2020-10-01T17:55:47 IST" finished-at="2020-10-01T17:55:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@6325a3ee]" name="teardown" is-config="true" duration-ms="260" started-at="2020-10-01T17:55:49 IST" finished-at="2020-10-01T17:55:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@3a5ed7a6]" name="setup" is-config="true" duration-ms="16303" started-at="2020-10-01T17:53:16 IST" finished-at="2020-10-01T17:53:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Details(java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@3a5ed7a6]" name="Details" duration-ms="15126" started-at="2020-10-01T17:53:32 IST" data-provider="CRMgetTestData" finished-at="2020-10-01T17:53:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Details -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@3a5ed7a6]" name="teardown" is-config="true" duration-ms="789" started-at="2020-10-01T17:53:47 IST" finished-at="2020-10-01T17:53:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@3a5ed7a6]" name="setup" is-config="true" duration-ms="13137" started-at="2020-10-01T17:53:48 IST" finished-at="2020-10-01T17:54:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Details(java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@3a5ed7a6]" name="Details" duration-ms="14844" started-at="2020-10-01T17:54:01 IST" data-provider="CRMgetTestData" finished-at="2020-10-01T17:54:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jeen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Details -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@3a5ed7a6]" name="teardown" is-config="true" duration-ms="818" started-at="2020-10-01T17:54:16 IST" finished-at="2020-10-01T17:54:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@3a5ed7a6]" name="setup" is-config="true" duration-ms="12862" started-at="2020-10-01T17:54:17 IST" finished-at="2020-10-01T17:54:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Details(java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@3a5ed7a6]" name="Details" duration-ms="14857" started-at="2020-10-01T17:54:30 IST" data-provider="CRMgetTestData" finished-at="2020-10-01T17:54:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kom]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Details -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@3a5ed7a6]" name="teardown" is-config="true" duration-ms="794" started-at="2020-10-01T17:54:45 IST" finished-at="2020-10-01T17:54:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1d16f93d]" name="SetUp" is-config="true" duration-ms="14527" started-at="2020-10-01T17:55:49 IST" finished-at="2020-10-01T17:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginPageTitleTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@1d16f93d]" name="LoginPageTitleTest" duration-ms="8" started-at="2020-10-01T17:56:04 IST" finished-at="2020-10-01T17:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1d16f93d]" name="teardown" is-config="true" duration-ms="182" started-at="2020-10-01T17:56:04 IST" finished-at="2020-10-01T17:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1d16f93d]" name="SetUp" is-config="true" duration-ms="15883" started-at="2020-10-01T17:56:04 IST" finished-at="2020-10-01T17:56:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="TextTest()[pri:2, instance:com.crm.qa.testcases.LoginPageTest@1d16f93d]" name="TextTest" duration-ms="28" started-at="2020-10-01T17:56:20 IST" finished-at="2020-10-01T17:56:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1d16f93d]" name="teardown" is-config="true" duration-ms="156" started-at="2020-10-01T17:56:20 IST" finished-at="2020-10-01T17:56:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1d16f93d]" name="SetUp" is-config="true" duration-ms="14593" started-at="2020-10-01T17:56:20 IST" finished-at="2020-10-01T17:56:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:3, instance:com.crm.qa.testcases.LoginPageTest@1d16f93d]" name="LoginTest" duration-ms="292" started-at="2020-10-01T17:56:35 IST" finished-at="2020-10-01T17:56:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1d16f93d]" name="teardown" is-config="true" duration-ms="141" started-at="2020-10-01T17:56:35 IST" finished-at="2020-10-01T17:56:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
